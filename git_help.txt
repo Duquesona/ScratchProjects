@@ -1,3 +1,4 @@
+
 1. Initialize git repository: git init
 git status
 2. git commit

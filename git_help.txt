@@ -1,4 +1,3 @@
-
 1. Initialize git repository: git init
 git status
 2. git commit
@@ -9,8 +8,3 @@ git status
 
 
 
-Token: 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
-Token2: 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
-
-
-git push https://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@github.com/Duquesona/ScratchProjects.git

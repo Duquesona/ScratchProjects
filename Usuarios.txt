@@ -16,3 +16,7 @@ Ec022508
 Tynker: 
 fernandosebastiancuevas@gmail.com
 Ec010203
+
+Scratch:
+user: duquesona
+pass: Duquesa

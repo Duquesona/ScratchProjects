@@ -20,3 +20,8 @@ Ec010203
 Scratch:
 user: duquesona
 pass: Duquesa
+
+
+macmillaneducationeverywhere.com
+user: a01555
+pass: Ec022508.$#@
